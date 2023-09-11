@@ -7,3 +7,5 @@
 # git clone https://github.com/Noorahmadnoorie/afghan_baba.git
 # sd afghan_baba
 # ls
+# python afghan_baba .py
+# created by noori baba 
