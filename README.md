@@ -4,4 +4,6 @@
 # pkg insta11 python
 # pkg insta11 python2
 # pkg insta11 git
-# git clone 
+# git clone https://github.com/Noorahmadnoorie/afghan_baba.git
+# sd afghan_baba
+# ls
